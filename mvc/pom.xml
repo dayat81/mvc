@@ -17,7 +17,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- Spring core & mvc -->
+		<!-- Spring core & mvc rocks-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
